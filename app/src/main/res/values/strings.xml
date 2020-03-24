@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab Sheet 04</string>
+    <string name="user_name">Name</string>
+    <string name="button_sign_up">SIGN UP</string>
+    <string name="registration_name">Name</string>
+    <string name="email_address">Email</string>
+    <string name="telephone_number">Telephone</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="button_register">REGISTER</string>
+    <string name="button_cancel">CANCEL</string>
+</resources>
